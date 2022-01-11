@@ -6,11 +6,7 @@ You don't have to deal with vector and matrix algebra or inverse kinematics. As 
 
 If you are unfamiliar with D-H parameters, please refer to [here](https://en.wikipedia.org/wiki/Denavit%E2%80%93Hartenberg_parameters).  
 
-# Install via pip
 
-```
-pip3 install visual-kinematics
-```
 
 # Explanation of example codes
 
